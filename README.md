@@ -2,6 +2,7 @@
 This repository contains the code and configurations for the DevOps Final Lab project, which demonstrates the integration and deployment of DevOps pipelines using modern tools and techniques.
 
 **Project Overview**
+
 The project aims to:
 
 - Showcase a fully functional CI/CD pipeline.
